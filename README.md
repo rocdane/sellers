@@ -1,5 +1,5 @@
-# timehunters
-Seller (Solution sur mesure de vente en ligne) [info](https://github.com/rocdane/sellers)
+# sellers
+Sellers (Solution sur mesure de vente en ligne) [info](https://github.com/rocdane/sellers)
 
 ## Description
 Sellers est un projet qui a pour objectif l'implémentation d'un modèle de gestion de boutique en ligne. Le projet permet une gestion simple de sa boutique en ligne.
